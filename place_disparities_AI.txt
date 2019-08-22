@@ -1,0 +1,131 @@
+The 2016 presidential election revealed—as nothing before it—one of the most striking but least-anticipated aspects of the global digital revolution. In a single dramatic vote, the victory of Donald Trump highlighted the emergence of a stark and widening divide between two Americas: one based in large, digitally oriented metropolitan areas; the other found in lower-tech smaller cities, towns, and rural areas.1 In doing so, the vote displayed—with its stark red-blue map—the underrated power of technology to reshape the geography of nations.
+
+The divide came as a shock to many.2 Yet it was not just the starkness of the revealed geographical gap that was so disconcerting. Also disturbing was the extent to which the nation’s revealed regional divides reflected something important about the fundamental nature of emerging digital technologies, including various forms of automation, such as artificial intelligence (AI).3
+
+The sharpened spatial divides did not just reflect random siting decisions, in this regard, or the decline of manufacturing (though those contributed). Instead, a significant body of academic literature now suggests the new technologies have introduced disruptive tools into the economy that, by empowering high-level work and substituting for “routine” tasks, are also massively rearranging the nation’s economic geography.
+
+Most evident to date have been machine-driven dynamics that amplify the ability of skilled workers to add value, substitute for rote work, and inject winner-take-most—or “superstar”—dynamics into markets.4 Over time, this initial diffusion of digital tools and automation has ratcheted up the so-called agglomeration forces that result as people and firms “cluster” in favored places to share information, match skills and work, and learn new things—with significant impacts on the nation’s geography.
+
+In this fashion, the 2016 election may go down as the first time society began to grasp the full implications of automation’s potential to transform the physical world. As big, techy cities like New York, Washington, and the Bay Area seemed to increasingly inhabit a different world from the rest of America, the people and places that were “left behind” revolted.
+
+AI and its positive and negative impacts will not be distributed evenly, and will likely contribute to the nation’s troubling geographical divides.
+
+All of which suggests the need to add another item to the list of social and ethical dilemmas surrounding the coming AI era the fact that AI and its positive and negative impacts will not be distributed evenly, and will likely contribute to the nation’s troubling geographical divides. Solving for this challenge will add yet another priority to problem-solving about the “future of work,” worker “adjustment,” and the ethical content of algorithms.
+
+AUTOMATION, AI—AND PLACE
+The link of AI to geography follows from digital technologies’ tendency to amplify the productivity of the skilled and “substitute” for rote or “routine” work. Most notably, Beaudry, Doms, and Lewis showed more than a decade ago that the cities that adopted personal computers earliest and fastest saw their relative wages increase the quickest.5
+
+Since then, additional evidence has accumulated—­including in recent Brookings research—that digital technologies are contributing heavily to the divergence of regional economies and the “pull away” of “superstar” cities from smaller ones and the rural hinterland.6 Enrico Moretti has shown that digital economies are resulting in growing differences among people and even between skills.7 And Elisa Gianno­ne has demonstrated that the divergence of cities’ wages since 1980—after decades of convergence—reflects a mix of technology’s increased rewards to highly skilled tech workers and local industry clustering.8
+
+Likewise, my own analysis of “digitalization” shows that states’ and cities’ mean annual wages are not only correlated to the localities’ mean digital-skills scores, but that the most digital places’ employment and incomes are pulling away from less digitally skilled places.
+
+Digitalization is positively related with average wages
+
+Over time, a fortunate upper tier of big, dense, talent-laden metropolitan areas has consistently grown faster than the median and least-prosperous cities:
+
+Indexed average annual wages and employment level, 1969-2016
+
+Central to these trends is automation. What I call the first major phase of digital automation, the IT-era phase, dated from 1980 to 2016 and centered on the adoption of the PC and industial robotics. About this period my group at the Metropolitan Policy Program at Brookings has worked with Brookings non-resident senior fellow Ian Hathway (employing data supplied by David Autor) to show how automation’s differential impact on task types nationally translated into uneven local employment outcomes.9
+
+First, our look at national occupational trends in the IT era depicts clearly how wage growth and employment change in the years since 1980 reflect a “hollowing out” of the skills continuum that in turn reflects reduced demand for “mid-skill,” “routine,” or repetitive work—whether of a physical or cognitive nature—given machine substitution for such work.
+
+Wage and employment growth has been the slowest in middle-wage jobs
+
+Overall, it is very clear that both employment growth and wage progress have slumped in the middle of the skill distribution for occupations like production helpers and clerical workers.
+
+Second, we link that national pattern to community impacts by mapping the local incidence of “routine” or repetitive work in 1980. Doing that yields a visual depiction of local exposure to automation-susceptible work.
+
+Routine share of employment by commuting zone, 1980
+Routine share of employment by commuting zone, 1980
+Source: Brookings analysis of Autor and Dorn (2013)
+The map is clear. Whereas routine work was spread widely throughout the country at the onset of the automation era, it was not spread evenly.
+
+And so what has followed in the last 35 years has also been uneven. With widespread adoption of industrial robots and the PC came a traumatic, locally variable disruption of middle-wage employment combined with a massive shift of middle-skilled, often non-college-educated workers into lower-wage service activities. Notably, manufacturing and office administration-oriented regions—areas of the Midwest, Northeast, South, and West Coast with the highest concentrations of routine employment—were also the places that saw the largest shift to low-wage service employment in the information age.
+
+In sum, the first era of digital automation has not bee­n spatially neutral. The places with the largest exposure to routine work—such as Detroit with its auto factories or New York with its millions of clerical workers—saw some of the greatest increases of lower-skill service employment in the IT era. Their relatively large routine, middle-skill workforces came under special pressure from automation. Conversely, metro areas with lower shares of routine employment— like Raleigh, North Carolina, with its universities and hospitals—saw less dramatic labor market transitions.
+
+Now the IT era is transforming into an AI era pervaded by more powerful digital technologies such as machine learning and other forms of artificial intelligence. Which raises the question: What will the next phase of the interplay between automation and employment look like?
+
+But that’s the initial IT era of automation. Now the IT era is transforming into an AI era pervaded by more powerful digital technologies such as machine learning and other forms of artificial intelligence.10 Which raises the question: What will the next phase of the interplay between automation and employment look like?
+
+To shed some light on this, my group worked further with Hathaway to analyze future trends in the AI phase of automation using estimates provided by the McKinsey Global Institute of occupational susceptibility to automation over the next few decades. (For more on our method see our paper here).
+
+Once again, we linked national information on automation’s projected impact on task types and occupations to information on the occupational mix of local geographies to assess potential employment outcomes in states and metropolitan areas.
+
+Now what do we find? Looking at data that incorporates projections of AI’s influence, the picture of future impact on occupation—and, in turn, on geography—appears a bit different from that of the earlier period.
+
+At the national level, a curve describing occupations’ current automation potential (with exposure rising up the vertical axis) has a distinct new look, in that it reports the highest exposure for roles with the lowest wages (those to the left on the horizontal axis) with reduced automation exposure the more wages rise (to the right of the figure):
+
+The lowest-wage jobs are the most exposed to automation
+
+This curve looks different from the earlier one plotting wage and employment growth against wage levels so as to suggest automation pressure. Whereas before, routine task content below the 20th wage percentile was low, here, the highest potential for future automation of current tasks is concentrated among the lowest-wage earners. This reflects in part a dramatically increased projected inroads of automation into the service sector thanks to coming AI applications for food-service operations and office administration. Task-level automation potential, meanwhile, falls steadily as average wages rise. Higher earners generally continue to face low automation threats based on current task content—though that could change as AI begins to put pressure on some higher-wage “non-routine” jobs. At least one new research inquiry suggests exactly that could happen.11
+
+Turning now to the geography of these trends, we see again that while automation risk will be felt everywhere, its inroads in the AI era will continue to be felt differently across place (though now, the pattern is a little different given the broad new vulnerability of lower-end services).
+
+Along these lines, the data for automation exposure in the AI era show that automation impacts will be most disruptive in Heartland states, counties, and cities. These are exactly the same regions hit hardest by IT-era changes.
+
+Average automation potential by county, 2016
+Average automation potential by county, 2016
+Source: Brookings analysis of BLS, Census, EMSI, Moodys, and McKinsey data
+Along these lines, less-educated Heartland states and counties specialized in manufacturing and low-end service industries could be especially hard-hit by automation in the AI era, whereas well-educated states and counties along the Boston-Washington corridor and on the West Coast appear less exposed.
+
+In parallel fashion, smaller, less-educated communities will struggle relatively more with AI-phase automation, while larger, better-educated cities will experience less disruption. Here’s how that looks:
+
+Average automation potential by metropolitan area, 2016
+Average automation potential by metropolitan area, 2016
+Source: Brookings analysis of BLS, Census, EMSI, Moodys, and McKinsey data
+According to the map, more than 50 percent of all workers’ current employment-weighted tasks are potentially automatable in small metropolitan areas like Kokomo, Indiana and Hickory, North Carolina. By contrast, the shares of vulnerable work in highly educated, highly digital metros like San Jose, California and the District of Columbia are just 40 percent and 39 percent, respectively. Overall, higher metropolitan education levels serve as a stay against AI-phase automation potential. This is partly because education supports the kind of complex interpersonal work that AI will complement rather than replace, and also because educational attainment improves individual and community adaptability.
+
+In sum, the spread of AI—like the earlier phase of automation—may well have significant and varied local impacts. While its contributions may benefit the nation in aggregate, its wage and dislocation effects could hit home in disparate, real, and not-always-welcome ways—ways that will need to be recognized and adequately addressed.
+
+COUNTERING THE GEOGRAPHY OF AUTOMATION
+It is appropriate, then, that a rich national discussion now surrounds the many questions raised by AI, beginning with “the future of work.” The rich debates underway about the extent to which algorithms can be made to respect basic human and democratic values are also valuable. Such foresight is critical.
+
+Also critical, though, is going to be serious discussion of the geographical implications of automation and AI.
+
+AI’s spatial implications also need a prominent place in the discussion, because nothing less than the nation’s territorial balances may be at risk.
+
+The geographical trends reported here suggest that AI’s spatial implications also need a prominent place in the discussion, because nothing less than the nation’s territorial balances may be at risk. Efforts to ensure the AI era works well for all places will also benefit from progress on a number of general, non-spatial agendas, which call on parties to embrace growth and technology to keep living standards high, promote a constant learning mindset among workers, facilitate smoother transitions from job-to-job, and to reduce hardships among individuals who are struggling. (See the Brookings report, Automation and Artificial Intelligence: How Machines Are Affecting People and Places.)
+
+Beyond that, though, any comprehensive strategy for making the most of AI will also need to specifically address the resilience of local communities. What should such efforts look like? Two strategies for response appear essential and call on government, industry, and civil society to:
+
+Future-proof vulnerable regional economies.
+Expand support for community adjustment.
+FUTURE-PROOF VULNERABLE REGIONAL ECONOMIES
+An initial requirement is to equip places hurt by technology to become more resilient. Such efforts must begin with a focus on future-proofing workers in these places by striving to impart skills that lead to automation-resilient work.
+
+Here, regional and state-led initiatives show promise.
+
+For example, the SkillUp program in northeast Ohio’s Cuyahoga County leverages local firms to facilitate regional skill development for in-demand jobs.12 The program helps firms in the region identify future workforce needs through a strategic planning process, determines the skills required for those jobs, and develops customized roadmaps to evaluate workers’ existing skills and facilitate training for in-demand positions. Training focuses on three types of skills: soft skills, foundational skills, and technical/occupational skills. When combined, the skills make workers more adaptable to the labor market impacts of automation. Empirical studies show such employer-specific training programs are an effective way to increase worker productivity, employment, and earnings.13
+
+Likewise, the Skillful State Network and Skillful State Playbook indicate the steps regions must take to reorient their workforce toward in-demand skills.14 Such efforts will grow in importance as automation and AI increase the pace of task change and ordain that workers master new ways of either working with the machines, or working beyond them.
+
+For its part, the federal government should reorient its funding streams to support such efforts. This includes supporting bottom-up local solutions and incentivizing regions to align their education, workforce and training, and economic development systems with one another, along with employers’ specific needs and the new importance of higher-order soft skills. The goal should be to create clear, articulated pipelines of skills acquisition aimed squarely at ensuring that regional economies become sources of resilient workers skilled in bringing value in an era when the machines do the rote stuff.
+
+
+A visitor fist bumps a humanoid robot at the booth of IBG at Hannover Messe, the trade fair in Hanover
+Employees work on bitcoin mining computers at Bitminer Factory in Florence, Italy, April 6, 2018. Picture taken April 6, 2018. REUTERS/Alessandro Bianchi - RC1154C44E80
+
+People look at data on their mobiles as background with internet wire cables on switch hub is projected in this picture illustration taken May 30, 2018. Picture taken May 30, 2018. REUTERS/Kacper Pempel/Illustration - RC138602D200
+
+Relatedly, governments should seek to accelerate the adoption of intelligent technology by regional economies and firms likely to be left behind as a parallel effort to help places become more resilient. This should begin with both the federal and state governments ramping up their extension missions by investing more in efforts to broaden the application, adoption, and commercialization of automation and AI innovations—including through organizational transformation. On this front, the successful Manufacturing Extension Partnership (MEP) network offers a 50-state, 30-year precedent for equipping small- and medium-sized manufacturing with higher-tech productivity solutions, including in rural places.15 Building on that history, the United States now needs a broader, bolder MEP-style program designed to diffuse high-tech and AI applications and organizational transformations into all corners of the economy, including the service sector.
+
+EXPAND SUPPORT FOR COMMUNITY ADJUSTMENT
+And yet, not even successful efforts to promote more communities’ resilience will prevent more severe dislocation in some places. Some regions, in particular those on the smaller end of the size distribution, could well suffer serious economic and labor-market disruption. For that reason, federal and state policymakers need to complement efforts to boost local resilience with special targeted interventions to mitigate the worst negative impacts of automation.
+
+Here, there are antecedents, such as the Defense Department’s Office of Economic Adjustment (OEA) focused on mitigating the impacts of base closures, the Economic Development Administration’s Adjustment Assistant Program oriented to “adverse” economic changes, and the congressionally funded Partnerships for Opportunity and Workforce and Economic Revitalization (POWER) program, aimed at communities impacted by changes in energy policy.16 However, these programs’ modest scale—and, in some cases, disjointed coordination—limits their impact. A more robust national strategy may be needed.
+
+Governments could, for example, channel job-creating investment into communities and places being adversely affected by automation, recognizing that some places will likely experience more displacement than others.
+
+Such an effort could begin by marshaling government and private sector resources into affected communities, and should be complemented with efforts to boost labor demand in those areas. Governments could, for example, channel job-creating investment into communities and places being adversely affected by automation, recognizing that some places will likely experience more displacement than others.17 Placing federal or state assets in such places—in conjunction with efforts to spark entrepreneurship by streamlining regulations—could help.18 So could explicit regional catch-up programs.19
+
+To be sure, the tendency of U.S. efforts to spur growth and development in struggling communities has usually been to give small ad hoc grants to many places, few of which have prospects for a turnaround. A more effective strategy would be to channel extensive investment to a few areas, with the goal of jump-starting a dynamic set of new regional employment hubs. In this fashion, the federal government could channel major investments to 10 or so medium-sized and promising metro areas selected through a competitive process that would be declared regional “growth poles.” This investment would consist of a suite of research, tax, infrastructure, and economic development benefits from the government, and would be coupled with corresponding investment by states and the private sector. Growth poles would in this way serve as anchors to enhance high-value employment growth in the larger surrounding vicinity.20
+
+Beyond that, it is likely that stronger tools—such as initiatives to spatially target hiring credits, job subsidies, or job guarantees—will be needed to help some hard-hit locations cope with task change. Such supports—focused on new hires (so as not to provide windfall benefits on existing jobs)—would be aimed at areas experiencing particularly painful or slow adjustment, and they would naturally incentivize investment to go with the jobs. Economists as diverse as Ed Glaeser, Larry Summers, Robert Litan, and David Neumark have all affirmed the need for such strong pro-work interventions in certain struggling places where automation has sapped labor demand.21 Along these lines, governments may also need to consider initiatives that target work-supporting investments into hard-hit locations. Such investments in needed infrastructure or energy efficiency work, for example, would have the ancillary benefit of creating sizable numbers of middle-wage jobs—the kind most at risk from emerging technologies.22
+
+IN SUM
+In conclusion, the nation needs to add geographical factors to its growing discussion of the benefits and harms of AI. As we have seen, automation in its initial digital phase from 1980 to now brought important economic gains to the aggregate economy, but also significant disruption that was not evenly distributed. Most notably, digital automation in its first phase has contributed to significant labor market disruptions and a job-quality crisis that have translated into uneven local employment outcomes—outcomes that have likely contributed to the social and political crises of the current decade. To the extent those negative impacts presage more of the same (or worse) in the coming years, the AI period could be even more difficult. The potentially faster diffusion of new AI technologies, their projected inroads into new occupation areas, and their manifest power to remake firms, industries, and local labor markets make them at once especially exciting as technologies and potentially fearsome as factors of regional disruption.
+
+The nation needs to commit now to new efforts to help communities as well as workers adjust to change. If the nation can commit to its people in this way, a future full of machines will seem much more tolerable in its jittery regions.
+
+However, the next few decades need not repeat the experience of the last few. In fact, the nation can actually learn from automation’s IT period in order to prepare for the AI one. For example, it is clear that a deliberate, coordinated adjustment stance enlisting federal, state, and local policymakers, educators, the private sector, and civil society may well be needed to push back against the regional imbalances that tech has exacerbated in recent decades. In this vein, the nation needs to commit now to new efforts to help communities as well as workers adjust to change. If the nation can commit to its people in this way, a future full of machines will seem much more tolerable in its jittery regions.
